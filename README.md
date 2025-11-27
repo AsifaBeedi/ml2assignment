@@ -12,7 +12,7 @@ Notebook
 
 Authors
 - Asifa Bandulal Beedi
-- Atharva Hanamsagar
+
 
 Quick start
 1. Create a virtual environment (recommended) and activate it. Example (Windows PowerShell):
